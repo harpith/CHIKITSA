@@ -21,7 +21,7 @@ The purpose of the **Chikitsa Medical Data Encryption System** is to securely ma
 
 To set up and run the frontend part of the project, follow these steps:
 
-### 📥 Navigate to the frontend directory and install dependencies
+### 📥 Navigate to the frontend (/medical) directory and install dependencies
 
 ```bash
 cd frontend
@@ -36,7 +36,7 @@ npm run dev
 
 To set up and run the backend part of the project, follow these steps:
 
-### 📥 Navigate to the backend directory and install dependencies
+### 📥 Navigate to the backend (/backend) directory and install dependencies
 
 ```bash
 cd backend
